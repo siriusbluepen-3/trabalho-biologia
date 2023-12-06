@@ -1,0 +1,17 @@
+body{
+    color: gainsboro;
+    background-image: url(./pods.webp);
+background-size: cover;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-size: cover;
+}
+
+title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+  }
